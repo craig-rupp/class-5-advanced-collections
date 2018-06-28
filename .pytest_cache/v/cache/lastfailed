@@ -1,0 +1,4 @@
+{
+  "tests.py::test_step_3_group_by_customer_and_invoice": true,
+  "tests.py::test_step_4_calculate_totals": true
+}
