@@ -7,4 +7,4 @@ def transform_products_to_list(products_string):
     for i in range(len(new_string_list)):
         final_list.append(new_string_list[i].split(','))
     return final_list
-pprint(transform_products_to_list(products_string))
+#pprint(transform_products_to_list(products_string))
